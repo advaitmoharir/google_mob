@@ -1,6 +1,8 @@
 # Google Mobility Data for India
-
+<p align="center">
 ![trends](https://raw.githubusercontent.com/advaitmoharir/google_mob/main/3_clean/trends.jpg)
+</p>
+
 
 This repo consists of Google's Community 19 Mobility Report data for India at the district level, daily over the period 15th February 2020 to 15th October 2022. The data is publicly available [here](https://www.google.com/covid19/mobility/data_documentation.html?hl=en). My small contribution here is to match the districts to the local government directory (LGD codes), which allows for easy merging with datasets to conduct any empirical analysis at the district level!
 
