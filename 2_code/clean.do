@@ -164,7 +164,7 @@ format mnth %tmMon-ccyy
 
 graph twoway (line retail_rec mnth) || (line grocery_pharm mnth) || (line parks mnth) || (line transit mnth) || (line workplace mnth) || (line residential mnth), legend(label(1 "Retail/Recreation") label(2 "Grocery/Pharm") label(3 "Parks") label(4 "Transit") label(5 "Workplace") label(6 "Residential"))
 
-graph export "$clean/trends.pdf", replace
+graph export "$clean/trends.jpeg", replace
 
 // Correlation heatmap
 
