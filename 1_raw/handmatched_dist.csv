@@ -1,0 +1,96 @@
+lgd_distcode,lgd_statecode,state,district,district_google
+632,35,Andaman and Nicobar Islands,North And Middle Andaman,North and Middle Andaman
+602,35,Andaman and Nicobar Islands,South Andamans,South Andaman
+502,28,Andhra Pradesh,Anantapur,Anantapuram
+515,28,Andhra Pradesh,Spsr Nellore,Sri Potti Sriramulu Nellore District
+520,28,Andhra Pradesh,Visakhapatanam,Vishakhapatnam
+504,28,Andhra Pradesh,Y.S.R.,YSR District
+618,18,Assam,Kamrup Metro,Kamrup Metropolitan
+296,18,Assam,Marigaon,Morigaon
+200,10,Bihar,Kaimur (Bhabua),Kaimur
+213,10,Bihar,Purbi Champaran,Purvi Champaran
+645,22,Chhattisgarh,Gariyaband,Gariaband
+382,22,Chhattisgarh,Kabirdham,Kawardha
+384,22,Chhattisgarh,Korea,Koriya
+77,7,Delhi,Central,Central Delhi
+78,7,Delhi,East,East Delhi
+80,7,Delhi,North,North Delhi
+81,7,Delhi,North East,North East Delhi
+82,7,Delhi,North West,North West Delhi
+83,7,Delhi,South,South Delhi
+670,7,Delhi,South East,South East Delhi
+84,7,Delhi,South West,South West Delhi
+85,7,Delhi,West,West Delhi
+438,24,Gujarat,Ahmadabad,Ahmedabad
+672,24,Gujarat,Arvalli,Aravalli
+441,24,Gujarat,Banas Kantha,Banaskantha
+668,24,Gujarat,Chhotaudepur,Chhota Udaipur
+674,24,Gujarat,Devbhumi Dwarka,Devbhoomi Dwarka
+445,24,Gujarat,Dohad,Dahod
+449,24,Gujarat,Kachchh,Kutch
+451,24,Gujarat,Mahesana,Mehsana
+454,24,Gujarat,Panch Mahals,Panchmahal
+458,24,Gujarat,Sabar Kantha,Sabarkatha
+62,6,Haryana,Gurugram,Gurgaon
+604,6,Haryana,Nuh,Mewat
+75,6,Haryana,Sonipat,Sonepat
+76,6,Haryana,Yamunanagar,Yamuna Nagar
+327,20,Jharkhand,East Singhbum,East Singhbhum
+340,20,Jharkhand,Sahebganj,Sahibganj
+341,20,Jharkhand,Saraikela Kharsawan,Seraikela Kharsawan
+524,29,Karnataka,Bagalkote,Bagalkot
+528,29,Karnataka,Ballari,Bellary
+526,29,Karnataka,Bengaluru Rural,Bangalore Rural
+525,29,Karnataka,Bengaluru Urban,Bangalore Urban
+531,29,Karnataka,Chamarajanagara,Chamarajanagar
+630,29,Karnataka,Chikkaballapura,Chikballapur
+535,29,Karnataka,Davangere,Davanagere
+538,29,Karnataka,Kalaburagi,Gulbarga
+547,29,Karnataka,Shivamogga,Shimoga
+548,29,Karnataka,Tumakuru,Tumkur
+530,29,Karnataka,Vijayapura,Bijapur
+553,31,Lakshadweep,Lakshadweep District,Lakshadweep
+667,23,Madhya Pradesh,Agar Malwa,Agar
+405,23,Madhya Pradesh,East Nimar,Khandwa
+469,27,Maharashtra,Aurangabad,Aurangabad district
+276,17,Meghalaya,Ri Bhoi,Ri-Bhoi
+344,21,Odisha,Anugul,Angul
+346,21,Odisha,Baleshwar,Balasore
+355,21,Odisha,Jagatsinghapur,Jagatsinghpur
+356,21,Odisha,Jajapur,Jajpur
+372,21,Odisha,Sonepur,Subarnapur
+599,34,Puducherry,Mahe,Mahe
+608,3,Punjab,S.A.S Nagar,Sahibzada Ajit Singh Nagar
+40,3,Punjab,Shahid Bhagat Singh Nagar,Shaheed Bhagat Singh Nagar
+95,8,Rajasthan,Chittorgarh,Chittaurgarh
+98,8,Rajasthan,Dholpur,Dhaulpur
+225,11,Sikkim,East District,East Sikkim
+226,11,Sikkim,North District,North Sikkim
+227,11,Sikkim,South District,South Sikkim
+228,11,Sikkim,West District,West Sikkim
+575,33,Tamil Nadu,Kanniyakumari,Kanyakumari
+587,33,Tamil Nadu,The Nilgiris,Nilgiris
+589,33,Tamil Nadu,Thiruvallur,Tiruvallur
+594,33,Tamil Nadu,Tuticorin,Thoothukudi
+653,16,Tripura,Sepahijala,Sipahijala
+124,9,Uttar Pradesh,Baghpat,Bagpat
+179,9,Uttar Pradesh,Bhadohi,Sant Ravidas Nagar
+133,9,Uttar Pradesh,Budaun,Badaun
+134,9,Uttar Pradesh,Bulandshahr,Bulandshahar
+144,9,Uttar Pradesh,Gautam Buddha Nagar,Gautam Buddh Nagar
+633,9,Uttar Pradesh,Kasganj,Kanshi Ram Nagar
+160,9,Uttar Pradesh,Kushi Nagar,Kushinagar
+178,9,Uttar Pradesh,Sant Kabeer Nagar,Sant Kabir Nagar
+181,9,Uttar Pradesh,Shravasti,Shrawasti
+182,9,Uttar Pradesh,Siddharth Nagar,Siddharthnagar
+54,5,Uttarakhand,Rudra Prayag,Rudraprayag
+55,5,Uttarakhand,Tehri Garhwal,Udham Singh Nagar
+56,5,Uttarakhand,Udam Singh Nagar,Uttarkashi
+303,19,West Bengal,24 Paraganas North,North 24 Parganas
+304,19,West Bengal,24 Paraganas South,South 24 Parganas
+308,19,West Bengal,Coochbehar,Cooch Behar
+310,19,West Bengal,Dinajpur Dakshin,Dakshin Dinajpur
+311,19,West Bengal,Dinajpur Uttar,Uttar Dinajpur
+316,19,West Bengal,Maldah,Malda
+317,19,West Bengal,Medinipur East,Purba Medinipur
+318,19,West Bengal,Medinipur West,West Medinipur
